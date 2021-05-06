@@ -1,0 +1,21 @@
+.team-container{
+    align-items: center;
+    border:1px solid white;
+    margin:20px;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    background-color: white;
+}
+.team-container img{
+    width: 20%;
+}
+.team-container button{
+    width: 150px;
+    background-color:#3A42FF;
+    height: 40px;
+    border: 1px solid #3A42FF;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+}

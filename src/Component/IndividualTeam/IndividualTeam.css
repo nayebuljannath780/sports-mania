@@ -1,0 +1,50 @@
+.header-container{
+    background-image:url('../../Photo/1660303.jpg');
+    width: 100%;
+    padding: 20px;
+}
+.header-container img{
+    width: 30%;
+}
+.league-container{
+    background-color: #0E0A2A;
+    padding: 20px;
+}
+.teamDetails{
+    display: flex;
+    align-items: center;
+    background-color: #3A42FF;
+    padding: 20px;
+    margin-left:8%;
+    margin-top: 1%;
+    width: 80%;
+    border-radius: 10px;
+    color: white;
+}
+.teamDetails-flex{
+    display: flex;
+    align-items: center;
+}
+.teamDetails-flex img{
+    margin-right: 8px;
+    width: 20px;
+    height: 20px;
+}
+.leagueInfo{
+
+    text-align: left;
+    width: 50%;
+}
+.player-img{
+    text-align: right;
+}
+.player-img img{
+    width: 50%; 
+}
+.team-description{
+    text-align: justify;
+    width: 80%;
+    margin-left:10%;
+    margin-top: 1%;
+    color:white;
+}

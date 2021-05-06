@@ -1,0 +1,11 @@
+.homeDetails{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    background-color: #0E0A2A; 
+}
+.header{
+    background-image: url('../../Photo/1660303.jpg');
+    padding: 200px;
+    color: white;
+}
